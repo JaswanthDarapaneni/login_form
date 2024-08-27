@@ -19,9 +19,9 @@
         }
         if (check) {
             var formData = $(this).serialize();
-
+console.log(formData)
             $.ajax({
-                url: 'https://zen-hook-backend.onrender.com/api/auth/signup',
+                url: 'https://zen-hook-backend.onrender.com/api/auth/register',
                 type: 'POST',
                 data: formData,
                 success: function (response) {
