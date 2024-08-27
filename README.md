@@ -5,7 +5,7 @@
 #### The backend is hosted in the render in free tair,
 <br>
 
-<p>It might not work sometime due to long inactivity of server. It should work gitting api, 59sec delay, based on render guildlines for free tair.</p>
+<p>It might not work sometime due to long inactivity of server. It should work hitting api, 59sec delay, based on render guildlines for free tair.</p>
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-**Note:** By default contact us form is show in the if you go to this backend url. 
+**Note:** By default contact us form is show in the backend url. 
 
 **OR**
 
